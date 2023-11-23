@@ -1,5 +1,9 @@
 # Pilot Engine
 
+![Pilot](https://github.com/TylerStein/PilotEngine/assets/8722842/7f84e29d-a591-4099-aae4-cb6bee52fe82)
+
+*Image generated using DALL-E 3*
+
 ## Dependencies
 Dependencies are not packaged with this repository.
 
